@@ -38,7 +38,7 @@
 					<select class="form-control" id="categoria" name="categoria" required>
                         <option value="">Seleccione una categoría</option>
                     </select>    
-					<div class="invalid-feedback">Ingrese uan categoría</div>
+					<div class="invalid-feedback">Ingrese una categoría</div>
 				</div>
 			</div>
 			<div class="row justify-content-center" style="margin-top: 2%">
