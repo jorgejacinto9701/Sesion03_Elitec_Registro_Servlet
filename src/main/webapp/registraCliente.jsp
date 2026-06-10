@@ -28,7 +28,7 @@
 				</div>
 				<div class="col-4">
 					<label for="titulo">DNI</label> 
-					<input type="text" class="form-control" id="dni" name="dni" placeholder="Ingrese el DNI" maxlength="30" required>
+					<input type="text" class="form-control" id="dni" name="dni" placeholder="Ingrese el DNI" maxlength="8" required>
 					<div class="invalid-feedback">Ingrese el DNI</div>
 				</div>
 			</div>
@@ -38,7 +38,7 @@
 					<select class="form-control" id="categoria" name="categoria" required>
                         <option value="">Seleccione una categoría</option>
                     </select>    
-					<div class="invalid-feedback">Ingrese el país</div>
+					<div class="invalid-feedback">Ingrese uan categoría</div>
 				</div>
 			</div>
 			<div class="row justify-content-center" style="margin-top: 2%">
